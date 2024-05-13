@@ -4,3 +4,8 @@
 	display:flex;
 	justify-content:normal;
 }
+.item {
+	width:100px;
+	height:100px;
+	background-color:red;
+}
